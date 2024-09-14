@@ -1,0 +1,12 @@
+.see {
+    width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.off {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
