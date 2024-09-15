@@ -17,6 +17,7 @@ const Header = () => {
   };
 
   return (
+    <>
     <div className='container'>
         <header className={`header ${isDarkMode ? 'dark' : ''}`}>
       <h2 className="header-title">Where in the world?</h2>
@@ -26,6 +27,7 @@ const Header = () => {
     </header>
     <hr />
     </div>
+    </>
   );
 }
 
